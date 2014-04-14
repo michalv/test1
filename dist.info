@@ -6,6 +6,6 @@ author = "Michal Valovic"
 maintainer = "Michal Valovic"
 
 depends = {
-	"lua > 5.2"
+	"lua > 5.2",
 	"testovaci" > 0.1
 }
